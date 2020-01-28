@@ -3,8 +3,6 @@ loop through the array
 check to see if each value matches the value to find 
 if true, return the index
 if false, return nil 
-
-scale = [2,3,4,5]
 =end 
 
 def find_element_index(array, value_to_find)
